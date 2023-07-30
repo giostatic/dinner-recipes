@@ -1,0 +1,25 @@
+@import url(../stylesheet.css);
+
+body{
+    text-align: center;
+}
+
+div#ingredients,#directions{
+    text-align: left;
+}
+
+div#ingredients h2,#directions h2{
+    text-align: center;
+}
+
+ul{
+    max-width: 940px;
+}
+
+ul li, ol li{
+    padding-left: 10px;
+}
+
+ol{
+    max-width: 940px;
+}
