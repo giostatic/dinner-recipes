@@ -4,6 +4,10 @@ body{
     text-align: center;
 }
 
+img{
+    border-radius: 20%;
+}
+
 div#ingredients,#directions{
     text-align: left;
 }
