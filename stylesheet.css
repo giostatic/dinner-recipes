@@ -5,6 +5,30 @@ body{
   background-color: aqua;
 }
 
-.links{
+#meat{
     text-align: center; 
 };
+
+#navbar{
+  background-color: hsla(302, 59%, 65%, 0.7);
+  font-family: 'Merriweather', serif, 'Work Sans';
+  position: relative;
+	width: 100%;
+  max-width: 100%;
+  text-align: right;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 5px solid black;
+}
+
+#navbar ul {
+  display: inline;
+  list-style-type: none;
+}
+
+
+#navbar li {
+  display: inline;
+  position: relative;  
+  margin: 0 10px;
+}
