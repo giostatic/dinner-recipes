@@ -6,7 +6,7 @@ let recipeLinks = ["<a href='recipes/ribs.html'>Slow cooked ribs</a>"];
 // };
 
 var button = document.getElementById("my-button");
-button.addEventListener("click", changeColor);
+button.addEventListener("click", goSomewhere);
 
 function goSomewhere {
     let recipes = recipeLinks[Math.floor(Math.random()*recipeLinks.length)];
