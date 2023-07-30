@@ -1,4 +1,4 @@
-let recipeLinks = ["<a href='recipes/ribs.html'>Slow cooked ribs</a>"];
+let recipeLinks = ["https://giostatic.github.io/odin-recipes/recipes/ribs.html"];
 
 // let goSomewhere= (recipes) => {
 //     let recipes = recipeLinks[Math.floor(Math.random()*recipeLinks.length)];
