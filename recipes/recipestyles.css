@@ -13,8 +13,7 @@ div#ingredients,#directions{
     margin:5px auto 5px auto;
     padding: 5px auto 5px auto;
     width: 50%;
-    max-width: 750px;
-    min-width: 500px; 
+
 }
 
 div#ingredients h2,#directions h2{
