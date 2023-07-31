@@ -3,6 +3,8 @@
 body{
   font-family: 'Montserrat', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-color: aqua;
+  color: black;
+
 }
 
 #meat{
@@ -13,17 +15,17 @@ body{
   background-color: hsla(302, 59%, 65%, 0.7);
   font-family: 'Merriweather', serif, 'Work Sans';
   position: relative;
-	width: 100%;
   max-width: 100%;
   text-align: right;
   padding-top: 20px;
   padding-bottom: 20px;
-  border-bottom: 5px solid black;
+  border: 5px solid black;
 }
 
 #nav-bar ul {
   display: inline;
   list-style-type: none;
+  
 }
 
 
