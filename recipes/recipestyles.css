@@ -6,6 +6,11 @@ body{
 
 img{
     border-radius: 5%;
+    width: 50%;
+    margin: auto;
+    min-width: 250px;
+    max-width: 350px;
+    min-height: 100px;
 }
 
 div#ingredients,#directions{
@@ -13,6 +18,8 @@ div#ingredients,#directions{
     margin:5px auto 5px auto;
     padding: 5px auto 5px auto;
     width: 50%;
+    min-width: 350px;
+    max-width: 750px;
 
 }
 
