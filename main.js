@@ -1,4 +1,8 @@
-let recipeLinks = ["https://giostatic.github.io/odin-recipes/recipes/ribs.html"];
+let recipeLinks = 
+    ["https://giostatic.github.io/odin-recipes/recipes/ribs.html",
+    "https://thecozycook.com/mushroom-chicken/",
+    
+    ];
 
 // let goSomewhere= (recipes) => {
 //     let recipes = recipeLinks[Math.floor(Math.random()*recipeLinks.length)];
