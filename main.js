@@ -5,11 +5,11 @@ let recipeLinks = ["https://giostatic.github.io/odin-recipes/recipes/ribs.html"]
 //     window.location = recipes; //redirects the button
 // };
 
-var button = document.getElementById("my-button");
+let button = document.getElementById("button");
 button.addEventListener("click", goSomewhere);
 
 function goSomewhere() {
     let recipes = recipeLinks[Math.floor(Math.random()*recipeLinks.length)];
     window.location = recipes; //redirects the button
-    document.getElementById("my-button").innerHTML = "YOU CLICKED ME!";
+    document.getElementById("button").innerHTML = "YOU CLICKED ME!";
 }
