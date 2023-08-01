@@ -1,7 +1,7 @@
 let recipeLinks = 
     ["https://giostatic.github.io/odin-recipes/recipes/ribs.html",
     "https://thecozycook.com/mushroom-chicken/",
-    
+
     ];
 
 // let goSomewhere= (recipes) => {
