@@ -14,6 +14,6 @@ button.addEventListener("click", goSomewhere);
 
 function goSomewhere() {
     let recipes = recipeLinks[Math.floor(Math.random()*recipeLinks.length)];
-    window.location = window.open(recipes(), "_blank"); //redirects the button
+    window.location = recipes; //redirects the button
     document.getElementById("button").innerHTML = "YOU CLICKED ME!";
 }
